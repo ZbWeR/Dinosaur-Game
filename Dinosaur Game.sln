@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dinosaur Game", "Dinosaur Game\Dinosaur Game.vcxproj", "{FD735B40-0307-49FB-866C-A29BC80FD23F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "The Dino", "The Dino\The Dino.vdproj", "{0392F7AB-DC81-4A23-8611-11F9C2DD0B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Debug|x64.ActiveCfg = Debug|x64
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Debug|x64.Build.0 = Debug|x64
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Debug|x86.Build.0 = Debug|Win32
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Release|x64.ActiveCfg = Release|x64
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Release|x64.Build.0 = Release|x64
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Release|x86.ActiveCfg = Release|Win32
+		{FD735B40-0307-49FB-866C-A29BC80FD23F}.Release|x86.Build.0 = Release|Win32
+		{0392F7AB-DC81-4A23-8611-11F9C2DD0B52}.Debug|x64.ActiveCfg = Debug
+		{0392F7AB-DC81-4A23-8611-11F9C2DD0B52}.Debug|x86.ActiveCfg = Debug
+		{0392F7AB-DC81-4A23-8611-11F9C2DD0B52}.Release|x64.ActiveCfg = Release
+		{0392F7AB-DC81-4A23-8611-11F9C2DD0B52}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2EF3EE0-C474-48A6-BD37-7626B51D1210}
+	EndGlobalSection
+EndGlobal
