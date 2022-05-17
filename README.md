@@ -14,7 +14,7 @@
 
 ## 📚 实现思路
 
-+ 物体的运动利用牛顿力学规律模拟,即<img src="http://latex.codecogs.com/gif.latex?\\x=x+v*\Delta t,vx=vx+a*\Delta t" style="border:none;">,取25毫秒为一个时间单位.游戏中小恐龙与障碍物的运动都是采用类似的写法实现.
++ 物体的运动利用牛顿力学规律模拟,即<img src="https://latex.codecogs.com/gif.latex?\\x=x+v*\Delta%20t,vx=vx+a*\Delta%20t" style="border:none;">,取25毫秒为一个时间单位.游戏中小恐龙与障碍物的运动都是采用类似的写法实现.
 
 + EasyX 本身无法显示透明图片, 在导入图片素材时,采用源码图和掩码图叠加做 或运算 的方法即可.
 
