@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 <h1 align="center">🏆  Dinosaur-Game 🐋</h1>
 
 ## 💡 游戏介绍 
@@ -15,5 +17,4 @@
 ## 📚 实现思路
 
 + 物体的运动利用牛顿力学规律模拟,即$x=x+v*\Delta t,v=v+a* \Delta t$,取25毫秒为一个时间单位.
-
 
