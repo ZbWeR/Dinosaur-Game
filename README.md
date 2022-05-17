@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 <h1 align="center">🏆  Dinosaur-Game 🐋</h1>
 
 ## 💡 游戏介绍 
@@ -16,5 +14,13 @@
 
 ## 📚 实现思路
 
-+ 物体的运动利用牛顿力学规律模拟,即$x=x+v*\Delta t,v=v+a* \Delta t$,取25毫秒为一个时间单位.
++ 物体的运动利用牛顿力学规律模拟,即![](http://latex.codecogs.com/svg.latex?x=x+v*\Delta t,v=v+a* \Delta t),取25毫秒为一个时间单位.游戏中小恐龙与障碍物的运动都是采用类似的写法实现.
 
++ EasyX 本身无法显示透明图片, 在导入图片素材时,采用源码图和掩码图叠加做 或运算 的方法即可.
+
++ 详细代码实现请见博客 [My Blog](https://zbwer.github.io/)(暂未更新)
+
+## 📖 参考资料
+
+1.  Easy X官方文档:https://docs.easyx.cn/zh-cn/intro
+2.  童晶 《C和C++趣味游戏编程》
