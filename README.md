@@ -8,7 +8,7 @@
 
 Dinosaur Game 文件夹中src存放该游戏用到的图片资源, Maincode.cpp 是所有代码.
 
-Dinosaur Game.sln 是 VS 项目文件,The Dino文件夹中的The Dino.msi 是该游戏的安装包.
+Dinosaur Game.sln 是 VS 项目文件,**The Dino**文件夹中的**The Dino.msi** 是该游戏的安装包.
 
 ## 🎯 玩法介绍
 
